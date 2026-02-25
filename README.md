@@ -6,11 +6,6 @@ Welcome to the ML System Design Case Studies Repository! This repository is a co
 
 ---
 
-## 🌐 **Featured Resource: <a href="https://horizonx.live" target="_blank" rel="noopener noreferrer">HorizonX.live</a>**
-
-
----
-
 
 ### Features
 
