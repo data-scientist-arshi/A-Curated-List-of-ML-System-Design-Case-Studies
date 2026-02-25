@@ -8,47 +8,6 @@ Welcome to the ML System Design Case Studies Repository! This repository is a co
 
 ## 🌐 **Featured Resource: <a href="https://horizonx.live" target="_blank" rel="noopener noreferrer">HorizonX.live</a>**
 
-> **Supercharge your Research journey with <a href="https://horizonx.live" target="_blank" rel="noopener noreferrer">HorizonX.live</a> — the all-in-one platform for all your research needs.**
-
-- 🔍 **Search & Explore**: Instantly find trending ML papers, code, and datasets.
-- 🗂️ **Personalized Libraries**: Save, organize, and annotate your favorite research.
-- 📝 **Interactive Paper Summaries**: Concise, easy-to-digest summaries for each paper.
-## 🚀 Upcoming Features
-
-We are continuously working to enhance this resource! Here are some exciting features coming soon:
-
-### 🌟 Upcoming Features
-
-- <span style="color: #39FF14; font-size: 1.2em; vertical-align: middle;">&#x1F7E2;</span> **Context-Aware Literature Engine**  
-  Speed up your literature review with AI that understands your research context.
-
-- **🤖 AI-Powered Brainstorming Engine**  
-  Collaborate with your intelligent assistant to spark, shape, and elevate breakthrough ideas.
-
-- **🛠️ Low-Code Data Analysis**  
-  Transform raw data into publication-ready charts and insights—no coding required.
-
-- **👥 Real-Time Collaboration**  
-  Google Docs meets research-grade Overleaf for seamless teamwork.
-
-- **🔗 Unified Knowledge Nexus**  
-  A single intelligent workspace that connects your ideas, insights, and research tools.
-
-- **📚 Automated Citation Manager**  
-  Intelligent reference management system for effortless citations.
-
-- **📝 Smart Formatting Assistant**  
-  Journal compliance made effortless.
-
-- **🔍 Pre-Publication Quality Check**  
-  Your 24/7 peer review partner for manuscript quality assurance.
-
-- **💻 On-Demand HPC Access**  
-  Computing power without the setup headaches.
-
-*Stay tuned for these updates and feel free to suggest features or contribute!*
-
-**Try it now:** <a href="https://horizonx.live" target="_blank" rel="noopener noreferrer">https://horizonx.live</a>
 
 ---
 
